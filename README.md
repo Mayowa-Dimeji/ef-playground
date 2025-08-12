@@ -1,6 +1,6 @@
 # EF Core Playground
 
-A simple **.NET 8 Web API** project demonstrating **Entity Framework Core 9**, **database relationships**, **data seeding**, and **Swagger UI** integration.  
+A simple **.NET 9 Web API** project demonstrating **Entity Framework Core 9**, **database relationships**, **data seeding**, and **Swagger UI** integration.  
 This project uses **SQLite** for quick setup, with the ability to switch to **SQL Server** later.
 
 ---
