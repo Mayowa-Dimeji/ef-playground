@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EfPlayground")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+33ffccc92e9c6e5143481df0550882685d3eebd4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1b7582a3e289d3374de87400e4ceeb43fd017167")]
 [assembly: System.Reflection.AssemblyProductAttribute("EfPlayground")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EfPlayground")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
